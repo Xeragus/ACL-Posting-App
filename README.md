@@ -1,2 +1,2 @@
 # ACL-Posting-App
-Laravel app that implements Access Control Lists and middleware route protection.
+Laravel app: Implementation of Access Control Lists and middleware route protection.
